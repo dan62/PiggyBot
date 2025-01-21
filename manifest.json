@@ -1,0 +1,11 @@
+{
+    "name": "PiggyBot",
+    "version": "1.0.0",
+    "description": "This is a Chrome extention that day trades micro amounts for you on major trading platforms",
+    "manifest_version": 3,
+    "author": "Daniel G",
+    "action": {
+        "default_popup": "./src/pages/index.html",
+        "default_title": "PiggyBot"
+    }
+}
